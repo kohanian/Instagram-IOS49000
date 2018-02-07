@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Bolts-Swift (1.3.0)
+  - Bolts/Tasks (1.9.0)
+  - DateToolsSwift (2.0.3)
+  - Parse (1.15.4):
+    - Bolts/Tasks (~> 1.9)
+  - ParseLiveQuery (2.2.3):
+    - Bolts-Swift (~> 1.3)
+    - Parse (~> 1.15.0)
+    - Starscream (= 2.1.1)
+  - ParseUI (1.1.7):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - Starscream (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - DateToolsSwift
+  - Parse (~> 1.15.0)
+  - ParseLiveQuery
+  - ParseUI (~> 1.1.3)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  Bolts-Swift: fa98d1b59fc1acea9b21a21306dcdca1c85e3737
+  DateToolsSwift: bf69bf9056d9e53c5c03f06e51f219b9b8b02f9e
+  Parse: 1968c634e1c782fb31aad6872f6d32de911bb122
+  ParseLiveQuery: cc79b6f621ed4a74e891fb38c6c1119da3aaa3af
+  ParseUI: 69ed49241c9898cdbbfcdd41eef4b094f6e602fa
+  Starscream: 142bd8ef24592d985daee9fa48c936070b85b15f
+
+PODFILE CHECKSUM: f7246a0029bfde3add883d3b29f0fb1302352763
+
+COCOAPODS: 1.4.0
